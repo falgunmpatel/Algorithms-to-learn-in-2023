@@ -1,3 +1,5 @@
+# Bead Sort
+
 Also known as Gravity sort, this algorithm was inspired by natural phenomena and was designed keeping in mind objects(or beads) falling under the influence of gravity. <br>
 **The Idea**: Positive numbers are represented by a set of beads like those on an abacus.
 
