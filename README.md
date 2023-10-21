@@ -18,7 +18,7 @@ Hacktoberfest is a program by Digital Ocean and Github, where you can easily win
 
 ### 2. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/shivaylamba/Hacktoberfest/).
+You can get your own fork/copy of [Hacktoberfest](https://github.com/falgunmpatel/Algorithms-to-learn-in-2023) by using the <kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/falgunmpatel/Algorithms-to-learn-in-2023).
 
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/shivaylamba/Hacktoberfest)
 
@@ -30,7 +30,7 @@ You can take a look to the [Programming Language List](https://en.wikipedia.org/
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
 Once you have completed these steps, you are ready to start contributing 
-by checking our `Help Wanted` issues and creating [pull requests](https://github.com/shivaylamba/Hacktoberfest/pulls).
+by checking our `Help Wanted` issues and creating [pull requests](https://github.com/falgunmpatel/Algorithms-to-learn-in-2023/pulls).
 
 ### 5. Give this Project a Star :star:
 
