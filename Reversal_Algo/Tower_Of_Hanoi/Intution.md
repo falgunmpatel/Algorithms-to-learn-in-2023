@@ -17,4 +17,3 @@ The brute force solution involves a recursive algorithm to move the disks one by
 ## Optimized Approach
 
 An optimized approach uses the property of the Tower of Hanoi problem, where each move follows a specific pattern. For n disks, it requires 2^n - 1 moves to solve the problem optimally.
-The optimized approach directly follows the pattern of moves required for the Tower of Hanoi problem, significantly reducing the number of recursive calls and moves required to solve the puzzle.
